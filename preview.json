@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f8b686e4-9e4c-40a3-9e20-a66e6a43a9b2",
+    "createdAt": "2025-01-25T05:32:43.197Z",
+    "group": "3349b773-2535-4a23-8199-a9b0577c5aa2",
+    "branch": "main",
+    "message": "expo_fairpay",
+    "runtimeVersion": "1.0.0",
+    "platform": "android",
+    "manifestPermalink": "https://u.expo.dev/update/f8b686e4-9e4c-40a3-9e20-a66e6a43a9b2",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "9a3c95f0e0365cf6022933395b212dae66317184"
+  },
+  {
+    "id": "f03108eb-10c5-4124-ba8e-a343c5fc1cac",
+    "createdAt": "2025-01-25T05:32:43.197Z",
+    "group": "3349b773-2535-4a23-8199-a9b0577c5aa2",
+    "branch": "main",
+    "message": "expo_fairpay",
+    "runtimeVersion": "1.0.0",
+    "platform": "ios",
+    "manifestPermalink": "https://u.expo.dev/update/f03108eb-10c5-4124-ba8e-a343c5fc1cac",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "9a3c95f0e0365cf6022933395b212dae66317184"
+  }
+]
