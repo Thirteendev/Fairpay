@@ -1,26 +1,26 @@
 [
   {
-    "id": "f8b686e4-9e4c-40a3-9e20-a66e6a43a9b2",
-    "createdAt": "2025-01-25T05:32:43.197Z",
-    "group": "3349b773-2535-4a23-8199-a9b0577c5aa2",
+    "id": "8d4b8e30-68ab-474e-b63d-911a089716ec",
+    "createdAt": "2025-02-25T18:03:24.201Z",
+    "group": "7725f294-86c1-4fdf-86bd-083a7c959963",
     "branch": "main",
-    "message": "expo_fairpay",
+    "message": "update",
     "runtimeVersion": "1.0.0",
     "platform": "android",
-    "manifestPermalink": "https://u.expo.dev/update/f8b686e4-9e4c-40a3-9e20-a66e6a43a9b2",
+    "manifestPermalink": "https://u.expo.dev/update/8d4b8e30-68ab-474e-b63d-911a089716ec",
     "isRollBackToEmbedded": false,
-    "gitCommitHash": "9a3c95f0e0365cf6022933395b212dae66317184"
+    "gitCommitHash": "4857f56741c1e884903632ac91386224706be439"
   },
   {
-    "id": "f03108eb-10c5-4124-ba8e-a343c5fc1cac",
-    "createdAt": "2025-01-25T05:32:43.197Z",
-    "group": "3349b773-2535-4a23-8199-a9b0577c5aa2",
+    "id": "91b92bd2-7910-4c98-87b1-1f8d420399cf",
+    "createdAt": "2025-02-25T18:03:24.201Z",
+    "group": "7725f294-86c1-4fdf-86bd-083a7c959963",
     "branch": "main",
-    "message": "expo_fairpay",
+    "message": "update",
     "runtimeVersion": "1.0.0",
     "platform": "ios",
-    "manifestPermalink": "https://u.expo.dev/update/f03108eb-10c5-4124-ba8e-a343c5fc1cac",
+    "manifestPermalink": "https://u.expo.dev/update/91b92bd2-7910-4c98-87b1-1f8d420399cf",
     "isRollBackToEmbedded": false,
-    "gitCommitHash": "9a3c95f0e0365cf6022933395b212dae66317184"
+    "gitCommitHash": "4857f56741c1e884903632ac91386224706be439"
   }
 ]
